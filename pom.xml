@@ -19,9 +19,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.drdanick.McRKit.McRKitLauncher</groupId>
+      <groupId>com.drdanick</groupId>
       <artifactId>Minecraft_RKit</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.5.2</version>
     </dependency>
   </dependencies>
 
